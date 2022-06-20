@@ -2,6 +2,7 @@
   "name": "flashbang",
   "displayName": "flashbang",
   "description": "Light mode isn't enough? Try flashbanging yourself.",
+  "icon": "images/icon.png",
   "repository": {
     "url": "https://github.com/genetv/flashbang-vscode"
   },
