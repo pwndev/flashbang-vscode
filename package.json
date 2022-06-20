@@ -1,0 +1,25 @@
+{
+  "name": "flashbang",
+  "displayName": "flashbang",
+  "description": "Light mode isn't enough? Try flashbanging yourself.",
+  "repository": {
+    "url": "https://github.com/genetv/flashbang-vscode"
+  },
+  "publisher": "flashbang",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.68.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Flashbang",
+        "uiTheme": "vs",
+        "path": "./themes/Flashbang-color-theme.json"
+      }
+    ]
+  }
+}
