@@ -7,7 +7,7 @@
     "url": "https://github.com/genetv/flashbang-vscode"
   },
   "publisher": "flashbang",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.68.0"
   },
